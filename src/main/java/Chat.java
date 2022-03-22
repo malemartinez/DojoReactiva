@@ -23,7 +23,7 @@ public class Chat {
             String palabra = input.nextLine();
             this.palabras.add(palabra);
            contador++;
-        } while(contador < 3);
+        } while(contador < 10);
 
     }
 
