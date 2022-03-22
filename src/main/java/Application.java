@@ -33,6 +33,21 @@ public class Application {
         correos.add(new Correo("maamartinezsa" , "yahoo.com" , "Aleja", false , "Trabajo de Reactivid;")) ;
         correos.add(new Correo("platinum" , "outlook.com" , "", false , "Trabajo de Reactividad"));
         correos.add(new Correo("limarsa" , "@gmail.com" , "linilla", true , "Trabajo de Reactividad"));
+        correos.add(new Correo("Christopher" , "@gmail.com" , "Christopher", true , "Trabajo de Reactividad"));
+        correos.add(new Correo("AdoracionAyala" , "@gmail.com" , "AdoracionAyala", true , "Trabajo de Reactividad"));
+        correos.add(new Correo("SonsolesReal" , "@gmail.com" , "SonsolesReal", true , "Trabajo de Reactividad"));
+        correos.add(new Correo("LucasGaspar" , "@gmail.com" , "LucasGaspar", true , "Trabajo de Reactividad"));
+        correos.add(new Correo("yanit002" , "@gmail.com" , "yanit", true , "Trabajo de Reactividad"));
+        correos.add(new Correo("YolandaM" , "@gmail.com" , "Yolanda", true , "Trabajo de Reactividad"));
+        correos.add(new Correo("LeandroC" , "@gmail.com" , "LeandroC", true , "Trabajo de Reactividad"));
+        correos.add(new Correo("rubicita" , "@gmail.com" , "rubicita", false , "Trabajo de Reactividad"));
+        correos.add(new Correo("mayerly" , "@gmail.com" , "mayerly", true , "Trabajo de Reactividad"));
+        correos.add(new Correo("luisilla" , "@gmail.com" , "luisilla", true , "Trabajo de Reactividad"));
+        correos.add(new Correo("Camicha" , "@gmail.com" , "Camicha", true , "Trabajo de Reactividad"));
+        correos.add(new Correo("alejitaGuevara" , "@gmail.com" , "alejita Guevara", true , "Trabajo de Reactividad"));
+        correos.add(new Correo("aquisa" , "@gmail.com" , "Alexa Quijano", true , "Trabajo de Reactividad"));
+        correos.add(new Correo("rodrigo00" , "@gmail.com" , "Rodrigo", true , "Trabajo de Reactividad"));
+        correos.add(new Correo("gochi" , "@gmail.com" , "Mary", true , "Trabajo de Reactividad"));
 
 
     }
